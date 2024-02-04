@@ -15,6 +15,7 @@ public class NextCharacter {
         } else {
             System.out.println("Invalid input. Please enter a character between 'a' and 'z'.");
         }
+        System.out.println("Chnge");
 
 
         scanner.close();
